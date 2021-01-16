@@ -1,1 +1,2 @@
-# plinko-2-side-check
+# p5.play-boilerplate
+Boiler plate for p5.play
